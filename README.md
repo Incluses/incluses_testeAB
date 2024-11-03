@@ -79,4 +79,4 @@ Diante dos resultados, aceitamos a hipótese nula (H0). Isso significa que não 
 --- 
 Feito por:
 
-(Olívia Farias Domingues)[https://github.com/oliviaworks]
+[Olívia Farias Domingues](https://github.com/oliviaworks)
