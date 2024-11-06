@@ -4,6 +4,10 @@
 
 Realizamos um teste AB para avaliar o desempenho de duas interfaces distintas, A e B, em um aplicativo voltado ao público-alvo de menores aprendizes e efetuados, com faixa etária entre 15 e 35 anos. Para isso, distribuímos a experiência entre duas amostras, com 28 pessoas usando a interface A e 26 pessoas usando a interface B.
 
+## **Coleta de dados**
+
+A coleta de dados foi realizada de forma presencial, utilizando a ferramenta Maze para registrar o tempo que cada participante levava para completar cada fluxo. Durante esse processo, caso algum participante tivesse dificuldade em compreender as instruções, reforçávamos as orientações conforme necessário, garantindo que pudessem seguir adiante corretamente, mas em nenhum momento enviezamos o teste.
+
 ## **Objetivos**
 O objetivo é entender qual interface promove uma experiência mais intuitiva e satisfatória para o público jovem e em início de carreira, explorando fluxos importantes de uso no aplicativo. Também queremos entender se a performace da interface B é melhor que a interface A por motivos de mudanças na interface ou motivos externos. O teste AB permitirá avaliar como essas mudanças impactam a performance, facilidade de uso e satisfação dos usuários em relação aos fluxos principais do aplicativo, fornecendo dados concretos para entender qual das interfaces oferece a melhor experiência para o público-alvo.
 
